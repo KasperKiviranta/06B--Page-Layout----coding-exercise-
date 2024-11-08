@@ -3,7 +3,7 @@
 ###
 
 <p align="left">This is my car website project being for School exercise</p>
-<p align="left">[https://kasperkiviranta.github.io/Car-Website](https://kasperkiviranta.github.io/06B--Page-Layout----coding-exercise-/)/</p>
+<p align="left">https://kasperkiviranta.github.io/Car-Website](https://kasperkiviranta.github.io/06B--Page-Layout----coding-exercise-/)/</p>
 
 
 ###
